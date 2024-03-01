@@ -1,0 +1,1 @@
+﻿Copy-Item G:\fotos_administrativos\*.jpg  \\192.168.1.122\raid3\sis\desa\fotos\fotos_talana
